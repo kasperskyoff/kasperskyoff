@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/rkaspersky">
+  <a href="https://github.com/kasperskyoff">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kasperskyoff&repo=SB.am&theme=react&bg_color=0d1117&hide_border=true" alt="SB.am"/>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kasperskyoff&repo=SB.il&theme=react&bg_color=0d1117&hide_border=true" alt="SB.il"/>
   </a>
@@ -19,7 +19,7 @@
 
 ---
 <div align="center">
-  <a href="https://github.com/rkaspersky">
+  <a href="https://github.com/kasperskyoff">
     <img src="https://github-readme-stats.vercel.app/api?username=kasperskyoff&show_icons=true&hide_border=true&bg_color=0d1117&title_color=0bfdd5&icon_color=58A6FF&text_color=0bfdd5"/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kasperskyoff&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Карта+результатов"/>
   </a>
