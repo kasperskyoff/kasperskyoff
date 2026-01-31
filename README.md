@@ -20,7 +20,7 @@
 | :--- | :--- |
 | **`SB.am`** | SunBox Admin Menu — мощная админ панель для сервера «Солнечный Sandbox». |
 | **`SB.il`** | SunBox Image Loader — удобная загрузка изображений. |
-| **`SB.st`** | SunBox Tab — кастомная таблица игроков (Tab) для s&box. |
+| **`SB.st`** | SunBox Tab — кастомная таблица игроков (Tab). |
 | **`hzb_khovrino`** | Цифровая ХЗБ для s&box. |
 | **`hzb_khovrino_core`** | Ядро ХЗБ. | — |
 
